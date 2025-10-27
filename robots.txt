@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /temp/
+Disallow: /draft/
+Disallow: /test/
+Disallow: /private/
+Disallow: /cgi-bin/
+
+Host: https://yablonovskiy83-sys.github.io/wert.github.io/
